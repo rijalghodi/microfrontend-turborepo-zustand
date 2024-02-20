@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "global-state-microfrontend-turborepo",
   "private": true,
   "scripts": {
     "build": "turbo build",
