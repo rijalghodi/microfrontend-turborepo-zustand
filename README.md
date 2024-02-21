@@ -23,18 +23,17 @@ This Turborepo includes the following packages/apps:
 
 Each package/app is 100% [TypeScript](https://www.typescriptlang.org/).
 
+## Development
+
+- Run `git submodule init` to init git submodule
+- Run `git submodule update` to get the files in submodules
+- Run `pnpm install` to install all packages in apps
+- Run `pnpm dev` 
+
 ## How to Build?
 
 To build all apps and packages, navigate to the root directory, and run the following command:
 
 ```
 pnpm build
-```
-
-### Dev Mode
-
-To develop all apps and packages, navigate to the root directory, run the following command:
-
-```
-pnpm dev
 ```
