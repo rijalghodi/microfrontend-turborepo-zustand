@@ -1,3 +1,6 @@
 [submodule "apps/main"]
 	path = apps/main
 	url = https://github.com/rijalghodi/main-mf-zustand.git
+[submodule "apps/child"]
+	path = apps/child
+	url = https://github.com/rijalghodi/child-mf-zustand.git
