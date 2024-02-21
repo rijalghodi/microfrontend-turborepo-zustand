@@ -1,0 +1,3 @@
+[submodule "apps/main"]
+	path = apps/main
+	url = https://github.com/rijalghodi/main-mf-zustand.git
